@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @r4gus
+/src/backend/database.py      @r4gus
+/src/backend/routers/auth.py  @r4gus
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @r4gus
